@@ -62,4 +62,5 @@ gem 'fog'
 gem 'figaro'
 gem 'unf'
 
-
+# Gems for User
+gem 'devise'
